@@ -14,7 +14,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1 className='title'>Dashboard de Usuários</h1>
+      <h1 className='title'>DASHBOARD DE USUÁRIOS</h1>
       <p className="title">Total de usuários: {users.length}</p>
       <div className="user-container">
         {users.map((user) => (

@@ -9,6 +9,7 @@
     box-sizing: border-box;
     word-wrap: break-word;
     overflow-wrap: break-word;
+    border: #000 5px outset;
 }
 
 .user-card img {
