@@ -2,6 +2,8 @@ import { useEffect, useState } from "react";
 import UserCard from "./components/UserCard";
 import "./App.css";
 
+const porPagina = 5;
+
 function App() {
   const [users, setUsers] = useState([]);
 
