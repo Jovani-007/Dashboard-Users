@@ -1,0 +1,28 @@
+.details-container {
+    background-color: #fff;
+    color: #333;
+    padding: 30px;
+    max-width: 400px;
+    margin: 30px auto;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+.details-container img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 15px;
+}
+
+.details-container button {
+    margin-bottom: 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 8px 14px;
+    border-radius: 5px;
+    cursor: pointer;
+}
